@@ -1,0 +1,18 @@
+min_sup=0.01
+[frozenset({10295, 10311, 12487}),
+ frozenset({10295, 10311, 10315}),
+ frozenset({10295, 10307, 10311})]
+
+min_sup=0.015
+[frozenset({33449, 33469}), frozenset({10295, 10307})]
+
+min_sup=0.02
+[frozenset({33449, 33469})]
+
+min_sup=0.012
+[frozenset({33449, 33469}),
+ frozenset({10295, 10311}),
+ frozenset({10311, 10315}),
+ frozenset({10295, 10315}),
+ frozenset({10295, 10307}),
+ frozenset({12483, 12487})]
